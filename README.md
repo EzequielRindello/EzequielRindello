@@ -2,11 +2,11 @@
 <br />
 <h3 align="center">I am Ezequiel Rindello. A future Software Developer</h3>
 
-- linkedin [(https://www.linkedin.com/in/ezequiel-rindello/))
+- linkedin (https://www.linkedin.com/in/ezequiel-rindello/)
 
 - gmail **rindelloezequiel@gmail.com**
 
-- proyectos en los que trabajo [[(https://ezequielrindello.github.io/Projets/)](https://www.linkedin.com/in/ezequiel-rindello/)
+- proyectos en los que trabajo (https://ezequielrindello.github.io/Projets/)
 <br />
 <h3 align="left">Conocimientos:</h3>
 <br />
