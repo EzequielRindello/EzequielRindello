@@ -7,7 +7,7 @@
 - gmail **rindelloezequiel@gmail.com**
 
 - proyectos en los que trabajo https://ezequielrindello.github.io/Projets/
-- 
+  
 <br />
 <h3 align="left">Conocimientos:</h3>
 <br />
