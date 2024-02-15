@@ -1,3 +1,8 @@
+<style>
+    a {
+        text-decoration: none;
+    }
+</style>
 <h1 style="text-align: center">Hello World! 👋</h1>
 <br />
 <h3 style="text-align: center">
