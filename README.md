@@ -1,7 +1,7 @@
 <h1 style="text-align: center; font-weight: bold;">Hello World! 👋</h1>
-<br />
+
 <h3 style="text-align: center">
-  I am Ezequiel Rindello. A future Software Developer
+  I am Ezequiel Rindello. A future Software Developer.
 </h3>
 
 <p style="text-align: center">
