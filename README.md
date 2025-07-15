@@ -56,3 +56,7 @@
   Projects I'm working on:
   <a href="https://rindello.netlify.app/" target="_blank">Ezequiel Rindello's Projects</a>
 </p>
+
+<img src="https://raw.githubusercontent.com/EzequielRindello/EzequielRindello/output/snake.svg" alt="Snake animation" />
+
+###
