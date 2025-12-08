@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Creating bugs since 2023<br>- I'm currently learning the .NET enviroment<br>- Goals: Become a Software Engineer<br>-Fun fact: I love videogames and fishing 🎣</p>
+<p align="left">- Creating bugs since 2023<br>- I'm currently learning the .NET enviroment<br>- Goals: Become a Software Engineer<br>- Fun fact: I love videogames and fishing 🎣</p>
 
 ###
 
