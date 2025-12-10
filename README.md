@@ -52,11 +52,6 @@
   <a href="mailto:rindelloezequiel@gmail.com">rindelloezequiel@gmail.com</a>
 </p>
 
-<p style="text-align: center">
-  Projects I'm working on:
-  <a href="https://rindello.netlify.app/" target="_blank">Ezequiel Rindello's Projects</a>
-</p>
-
 ![snake gif](https://github.com/EzequielRindello/EzequielRindello/blob/output/github-snake-dark.svg)
 
 ###
