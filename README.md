@@ -3,6 +3,7 @@
 ###
 
 <p align="left">My name is Ezequiel Rindello Retambay, and I am from Rosario, Argentina.</p>
+<p align="left">Software Developer Student at BYU-IDAHO.</p>
 
 ###
 
