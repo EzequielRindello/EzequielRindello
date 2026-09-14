@@ -1,50 +1,9 @@
-<h1 align="left">Console.WriteLine("Hello world!");</h1>
-
-###
-
 <p align="left">My name is Ezequiel Rindello, and I am from Rosario, Argentina.</p>
-<p align="left">Software Developer Student at BYU-IDAHO.</p>
+<p align="left">Software Developer, currently working remotely for <a href="https://primerosystems.com/" target="_blank">Primero Systems</a> </p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">- Creating bugs since 2023<br>- I'm currently learning the .NET enviroment<br>- Goals: Become a Software Engineer<br>- Fun fact: I love videogames and fishing 🎣</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<h2 align="left">Contact Me</h2>
-
-###
-
-<p style="text-align: center">
-  LinkedIn:
-  <a href="https://www.linkedin.com/in/ezequiel-rindello/" target="_blank">Ezequiel Rindello</a>
-</p>
-
-<p style="text-align: center">
-  Email:
-  <a href="mailto:rindelloezequiel@gmail.com">rindelloezequiel@gmail.com</a>
-</p>
+<h3> Visit my <a href="https://rindello-v2.netlify.app/" target="_blank">portfolio</a> to learn a little more about me</h3>
 
 ![snake gif](https://github.com/EzequielRindello/EzequielRindello/blob/output/github-snake-dark.svg)
 
