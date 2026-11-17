@@ -3,7 +3,7 @@
 
 ###
 
-<h3> Visit my <a href="https://rindello-v2.netlify.app/" target="_blank">portfolio</a> to learn a little more about me</h3>
+<h3> Visit my <a href="https://portfolio.rindelloezequiel.workers.dev/" target="_blank">portfolio</a> to learn a little more about me</h3>
 
 ![snake gif](https://github.com/EzequielRindello/EzequielRindello/blob/output/github-snake-dark.svg)
 
