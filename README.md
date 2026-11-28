@@ -1,10 +1,5 @@
-Software Developer, currently working remotely for [Primero Systems](https://primerosystems.com/)
+Hello, world! My name is Ezequiel, though some people call me Nani.
 
-Visit my [portfolio](https://portfolio.rindelloezequiel.workers.dev/) to learn a little more about me
+I'm a software developer working with .NET, React and SQL. I also contribute to [Paleblood](https://github.com/Yharnam-Hunters/Paleblood), a Bloodborne PC port ([my PRs](https://github.com/Yharnam-Hunters/Paleblood/pulls?q=is%3Apr+is%3Amerged+author%3AEzequielRindello)).
 
-## GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EzequielRindello/EzequielRindello/output/github-snake-dark.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/EzequielRindello/EzequielRindello/output/github-snake.svg" />
-</picture>
+Feel free to check out my monstrosities :)
